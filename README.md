@@ -1,6 +1,6 @@
 # BASE DE DATOS I - CONCESIONARIA
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo) ![License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub repo size](https://github.com/thomiperezz/sistema-bd-concesionaria) ![SQL](https://img.shields.io/badge/SQL-Database-blue) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Descripción
 
