@@ -63,5 +63,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 - **LinkedIn**: [linkedin.com/in/thperez17](https://linkedin.com/in/thperez17)
 - **Correo**: perezthomas17@hotmail.com
 - **GitHub**: [github.com/thomiperezz](https://github.com/thomiperezz)
-- Para preguntas, contacta al equipo del proyecto.</content>
-<parameter name="filePath">c:\Users\perez\Desktop\sistema-bd-concesionaria\BASE DE DATOS I - CONCESIONARIA\README.md
+
